@@ -14,5 +14,4 @@ ctrl-c
 
 
 
-![Logo](https://www.pythonandvba.com/banner-img)
 
